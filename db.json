@@ -1,0 +1,57 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "dni": "27006",
+      "name": "SANDRA GARCIA",
+      "age": 21
+    },
+    {
+      "id": "2",
+      "dni": "30000000",
+      "name": "ANDREA BERNAL",
+      "age": 15
+    },
+    {
+      "id": "4",
+      "dni": "39000000",
+      "name": "CAMILA GOMEZ",
+      "age": 15
+    },
+    {
+      "id": "5",
+      "dni": "45000000",
+      "name": "GERARDO FORERO",
+      "age": 36
+    },
+    {
+      "id": "6",
+      "dni": "55000000",
+      "name": "LUISA FORERO",
+      "age": 26
+    },
+    {
+      "id": "7",
+      "dni": "50002",
+      "name": "SANDRA DIAZ",
+      "age": 25
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
